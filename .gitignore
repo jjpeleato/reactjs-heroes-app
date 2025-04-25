@@ -11,7 +11,7 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
-test/*/__snapshots__
+test/**/__snapshots__
 .env
 *.local
 package-lock.json
